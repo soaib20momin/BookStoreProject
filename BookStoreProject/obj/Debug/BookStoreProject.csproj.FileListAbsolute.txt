@@ -1,0 +1,137 @@
+c:\users\johnny lin\documents\visual studio 2015\Projects\BookStoreProject\BookStoreProject\bin\ApplicationInsights.config
+c:\users\johnny lin\documents\visual studio 2015\Projects\BookStoreProject\BookStoreProject\bin\roslyn\csc.exe
+c:\users\johnny lin\documents\visual studio 2015\Projects\BookStoreProject\BookStoreProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\johnny lin\documents\visual studio 2015\Projects\BookStoreProject\BookStoreProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\johnny lin\documents\visual studio 2015\Projects\BookStoreProject\BookStoreProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\johnny lin\documents\visual studio 2015\Projects\BookStoreProject\BookStoreProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\johnny lin\documents\visual studio 2015\Projects\BookStoreProject\BookStoreProject\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\johnny lin\documents\visual studio 2015\Projects\BookStoreProject\BookStoreProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\johnny lin\documents\visual studio 2015\Projects\BookStoreProject\BookStoreProject\bin\roslyn\System.Collections.Immutable.dll
+c:\users\johnny lin\documents\visual studio 2015\Projects\BookStoreProject\BookStoreProject\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\johnny lin\documents\visual studio 2015\Projects\BookStoreProject\BookStoreProject\bin\roslyn\vbc.exe
+c:\users\johnny lin\documents\visual studio 2015\Projects\BookStoreProject\BookStoreProject\bin\roslyn\VBCSCompiler.exe
+c:\users\johnny lin\documents\visual studio 2015\Projects\BookStoreProject\BookStoreProject\bin\roslyn\VBCSCompiler.exe.config
+c:\users\johnny lin\documents\visual studio 2015\Projects\BookStoreProject\BookStoreProject\bin\BookStoreProject.dll.config
+c:\users\johnny lin\documents\visual studio 2015\Projects\BookStoreProject\BookStoreProject\bin\BookStoreProject.dll
+c:\users\johnny lin\documents\visual studio 2015\Projects\BookStoreProject\BookStoreProject\bin\BookStoreProject.pdb
+c:\users\johnny lin\documents\visual studio 2015\Projects\BookStoreProject\BookStoreProject\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\johnny lin\documents\visual studio 2015\Projects\BookStoreProject\BookStoreProject\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\johnny lin\documents\visual studio 2015\Projects\BookStoreProject\BookStoreProject\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\johnny lin\documents\visual studio 2015\Projects\BookStoreProject\BookStoreProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\johnny lin\documents\visual studio 2015\Projects\BookStoreProject\BookStoreProject\bin\Microsoft.AI.Web.dll
+c:\users\johnny lin\documents\visual studio 2015\Projects\BookStoreProject\BookStoreProject\bin\Microsoft.AI.WindowsServer.dll
+c:\users\johnny lin\documents\visual studio 2015\Projects\BookStoreProject\BookStoreProject\bin\Microsoft.ApplicationInsights.dll
+c:\users\johnny lin\documents\visual studio 2015\Projects\BookStoreProject\BookStoreProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\johnny lin\documents\visual studio 2015\Projects\BookStoreProject\BookStoreProject\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\johnny lin\documents\visual studio 2015\Projects\BookStoreProject\BookStoreProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\johnny lin\documents\visual studio 2015\Projects\BookStoreProject\BookStoreProject\bin\Microsoft.AI.Web.xml
+c:\users\johnny lin\documents\visual studio 2015\Projects\BookStoreProject\BookStoreProject\bin\Microsoft.AI.WindowsServer.xml
+c:\users\johnny lin\documents\visual studio 2015\Projects\BookStoreProject\BookStoreProject\bin\Microsoft.ApplicationInsights.xml
+c:\users\johnny lin\documents\visual studio 2015\Projects\BookStoreProject\BookStoreProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\johnny lin\documents\visual studio 2015\Projects\BookStoreProject\BookStoreProject\obj\Debug\BookStoreProject.csprojResolveAssemblyReference.cache
+c:\users\johnny lin\documents\visual studio 2015\Projects\BookStoreProject\BookStoreProject\obj\Debug\BookStoreProject.dll
+c:\users\johnny lin\documents\visual studio 2015\Projects\BookStoreProject\BookStoreProject\obj\Debug\BookStoreProject.pdb
+C:\Users\Johnny Lin\Documents\Visual Studio 2015\Projects\BookStoreProject\BookStoreProject\obj\Debug\BookStoreProject.csproj.CoreCompileInputs.cache
+C:\Users\Bradley Blanchard\Documents\Brad\Humber\Semester 3\.Net Web Component\poject\BookStoreProject\BookStoreProject\bin\ApplicationInsights.config
+C:\Users\Bradley Blanchard\Documents\Brad\Humber\Semester 3\.Net Web Component\poject\BookStoreProject\BookStoreProject\bin\roslyn\csc.exe
+C:\Users\Bradley Blanchard\Documents\Brad\Humber\Semester 3\.Net Web Component\poject\BookStoreProject\BookStoreProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Bradley Blanchard\Documents\Brad\Humber\Semester 3\.Net Web Component\poject\BookStoreProject\BookStoreProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Bradley Blanchard\Documents\Brad\Humber\Semester 3\.Net Web Component\poject\BookStoreProject\BookStoreProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Bradley Blanchard\Documents\Brad\Humber\Semester 3\.Net Web Component\poject\BookStoreProject\BookStoreProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Bradley Blanchard\Documents\Brad\Humber\Semester 3\.Net Web Component\poject\BookStoreProject\BookStoreProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Bradley Blanchard\Documents\Brad\Humber\Semester 3\.Net Web Component\poject\BookStoreProject\BookStoreProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Bradley Blanchard\Documents\Brad\Humber\Semester 3\.Net Web Component\poject\BookStoreProject\BookStoreProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Bradley Blanchard\Documents\Brad\Humber\Semester 3\.Net Web Component\poject\BookStoreProject\BookStoreProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Bradley Blanchard\Documents\Brad\Humber\Semester 3\.Net Web Component\poject\BookStoreProject\BookStoreProject\bin\roslyn\vbc.exe
+C:\Users\Bradley Blanchard\Documents\Brad\Humber\Semester 3\.Net Web Component\poject\BookStoreProject\BookStoreProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\Bradley Blanchard\Documents\Brad\Humber\Semester 3\.Net Web Component\poject\BookStoreProject\BookStoreProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Bradley Blanchard\Documents\Brad\Humber\Semester 3\.Net Web Component\poject\BookStoreProject\BookStoreProject\bin\BookStoreProject.dll.config
+C:\Users\Bradley Blanchard\Documents\Brad\Humber\Semester 3\.Net Web Component\poject\BookStoreProject\BookStoreProject\bin\BookStoreProject.dll
+C:\Users\Bradley Blanchard\Documents\Brad\Humber\Semester 3\.Net Web Component\poject\BookStoreProject\BookStoreProject\bin\BookStoreProject.pdb
+C:\Users\Bradley Blanchard\Documents\Brad\Humber\Semester 3\.Net Web Component\poject\BookStoreProject\BookStoreProject\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Bradley Blanchard\Documents\Brad\Humber\Semester 3\.Net Web Component\poject\BookStoreProject\BookStoreProject\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Bradley Blanchard\Documents\Brad\Humber\Semester 3\.Net Web Component\poject\BookStoreProject\BookStoreProject\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Bradley Blanchard\Documents\Brad\Humber\Semester 3\.Net Web Component\poject\BookStoreProject\BookStoreProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Bradley Blanchard\Documents\Brad\Humber\Semester 3\.Net Web Component\poject\BookStoreProject\BookStoreProject\bin\Microsoft.AI.Web.dll
+C:\Users\Bradley Blanchard\Documents\Brad\Humber\Semester 3\.Net Web Component\poject\BookStoreProject\BookStoreProject\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Bradley Blanchard\Documents\Brad\Humber\Semester 3\.Net Web Component\poject\BookStoreProject\BookStoreProject\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Bradley Blanchard\Documents\Brad\Humber\Semester 3\.Net Web Component\poject\BookStoreProject\BookStoreProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Bradley Blanchard\Documents\Brad\Humber\Semester 3\.Net Web Component\poject\BookStoreProject\BookStoreProject\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Bradley Blanchard\Documents\Brad\Humber\Semester 3\.Net Web Component\poject\BookStoreProject\BookStoreProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Bradley Blanchard\Documents\Brad\Humber\Semester 3\.Net Web Component\poject\BookStoreProject\BookStoreProject\bin\Microsoft.AI.Web.xml
+C:\Users\Bradley Blanchard\Documents\Brad\Humber\Semester 3\.Net Web Component\poject\BookStoreProject\BookStoreProject\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Bradley Blanchard\Documents\Brad\Humber\Semester 3\.Net Web Component\poject\BookStoreProject\BookStoreProject\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Bradley Blanchard\Documents\Brad\Humber\Semester 3\.Net Web Component\poject\BookStoreProject\BookStoreProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Bradley Blanchard\Documents\Brad\Humber\Semester 3\.Net Web Component\poject\BookStoreProject\BookStoreProject\obj\Debug\BookStoreProject.csprojResolveAssemblyReference.cache
+C:\Users\Bradley Blanchard\Documents\Brad\Humber\Semester 3\.Net Web Component\poject\BookStoreProject\BookStoreProject\obj\Debug\BookStoreProject.csproj.CoreCompileInputs.cache
+C:\Users\Bradley Blanchard\Documents\Brad\Humber\Semester 3\.Net Web Component\poject\BookStoreProject\BookStoreProject\obj\Debug\BookStoreProject.dll
+C:\Users\Bradley Blanchard\Documents\Brad\Humber\Semester 3\.Net Web Component\poject\BookStoreProject\BookStoreProject\obj\Debug\BookStoreProject.pdb
+C:\Users\ajibd\Downloads\BookStoreProject7\BookStoreProject\BookStoreProject\bin\ApplicationInsights.config
+C:\Users\ajibd\Downloads\BookStoreProject7\BookStoreProject\BookStoreProject\bin\roslyn\csc.exe
+C:\Users\ajibd\Downloads\BookStoreProject7\BookStoreProject\BookStoreProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ajibd\Downloads\BookStoreProject7\BookStoreProject\BookStoreProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ajibd\Downloads\BookStoreProject7\BookStoreProject\BookStoreProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ajibd\Downloads\BookStoreProject7\BookStoreProject\BookStoreProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ajibd\Downloads\BookStoreProject7\BookStoreProject\BookStoreProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ajibd\Downloads\BookStoreProject7\BookStoreProject\BookStoreProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ajibd\Downloads\BookStoreProject7\BookStoreProject\BookStoreProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ajibd\Downloads\BookStoreProject7\BookStoreProject\BookStoreProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ajibd\Downloads\BookStoreProject7\BookStoreProject\BookStoreProject\bin\roslyn\vbc.exe
+C:\Users\ajibd\Downloads\BookStoreProject7\BookStoreProject\BookStoreProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\ajibd\Downloads\BookStoreProject7\BookStoreProject\BookStoreProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ajibd\Downloads\BookStoreProject7\BookStoreProject\BookStoreProject\bin\BookStoreProject.dll.config
+C:\Users\ajibd\Downloads\BookStoreProject7\BookStoreProject\BookStoreProject\bin\BookStoreProject.dll
+C:\Users\ajibd\Downloads\BookStoreProject7\BookStoreProject\BookStoreProject\bin\BookStoreProject.pdb
+C:\Users\ajibd\Downloads\BookStoreProject7\BookStoreProject\BookStoreProject\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ajibd\Downloads\BookStoreProject7\BookStoreProject\BookStoreProject\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ajibd\Downloads\BookStoreProject7\BookStoreProject\BookStoreProject\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ajibd\Downloads\BookStoreProject7\BookStoreProject\BookStoreProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ajibd\Downloads\BookStoreProject7\BookStoreProject\BookStoreProject\bin\Microsoft.AI.Web.dll
+C:\Users\ajibd\Downloads\BookStoreProject7\BookStoreProject\BookStoreProject\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ajibd\Downloads\BookStoreProject7\BookStoreProject\BookStoreProject\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ajibd\Downloads\BookStoreProject7\BookStoreProject\BookStoreProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ajibd\Downloads\BookStoreProject7\BookStoreProject\BookStoreProject\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ajibd\Downloads\BookStoreProject7\BookStoreProject\BookStoreProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ajibd\Downloads\BookStoreProject7\BookStoreProject\BookStoreProject\bin\Microsoft.AI.Web.xml
+C:\Users\ajibd\Downloads\BookStoreProject7\BookStoreProject\BookStoreProject\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ajibd\Downloads\BookStoreProject7\BookStoreProject\BookStoreProject\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ajibd\Downloads\BookStoreProject7\BookStoreProject\BookStoreProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ajibd\Downloads\BookStoreProject7\BookStoreProject\BookStoreProject\obj\Debug\BookStoreProject.csproj.CoreCompileInputs.cache
+C:\Users\ajibd\Downloads\BookStoreProject7\BookStoreProject\BookStoreProject\obj\Debug\BookStoreProject.dll
+C:\Users\ajibd\Downloads\BookStoreProject7\BookStoreProject\BookStoreProject\obj\Debug\BookStoreProject.pdb
+C:\Users\ajibd\Downloads\BookStoreProject7\BookStoreProject\BookStoreProject\obj\Debug\BookStoreProject.csprojResolveAssemblyReference.cache
+C:\Soaib\Humber\Semester 3\ASP.NET\BookStoreProject\BookStoreProject\bin\ApplicationInsights.config
+C:\Soaib\Humber\Semester 3\ASP.NET\BookStoreProject\BookStoreProject\bin\roslyn\csc.exe
+C:\Soaib\Humber\Semester 3\ASP.NET\BookStoreProject\BookStoreProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Soaib\Humber\Semester 3\ASP.NET\BookStoreProject\BookStoreProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Soaib\Humber\Semester 3\ASP.NET\BookStoreProject\BookStoreProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Soaib\Humber\Semester 3\ASP.NET\BookStoreProject\BookStoreProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Soaib\Humber\Semester 3\ASP.NET\BookStoreProject\BookStoreProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Soaib\Humber\Semester 3\ASP.NET\BookStoreProject\BookStoreProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Soaib\Humber\Semester 3\ASP.NET\BookStoreProject\BookStoreProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Soaib\Humber\Semester 3\ASP.NET\BookStoreProject\BookStoreProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Soaib\Humber\Semester 3\ASP.NET\BookStoreProject\BookStoreProject\bin\roslyn\vbc.exe
+C:\Soaib\Humber\Semester 3\ASP.NET\BookStoreProject\BookStoreProject\bin\roslyn\VBCSCompiler.exe
+C:\Soaib\Humber\Semester 3\ASP.NET\BookStoreProject\BookStoreProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Soaib\Humber\Semester 3\ASP.NET\BookStoreProject\BookStoreProject\bin\BookStoreProject.dll.config
+C:\Soaib\Humber\Semester 3\ASP.NET\BookStoreProject\BookStoreProject\bin\BookStoreProject.dll
+C:\Soaib\Humber\Semester 3\ASP.NET\BookStoreProject\BookStoreProject\bin\BookStoreProject.pdb
+C:\Soaib\Humber\Semester 3\ASP.NET\BookStoreProject\BookStoreProject\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Soaib\Humber\Semester 3\ASP.NET\BookStoreProject\BookStoreProject\bin\Microsoft.AI.DependencyCollector.dll
+C:\Soaib\Humber\Semester 3\ASP.NET\BookStoreProject\BookStoreProject\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Soaib\Humber\Semester 3\ASP.NET\BookStoreProject\BookStoreProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Soaib\Humber\Semester 3\ASP.NET\BookStoreProject\BookStoreProject\bin\Microsoft.AI.Web.dll
+C:\Soaib\Humber\Semester 3\ASP.NET\BookStoreProject\BookStoreProject\bin\Microsoft.AI.WindowsServer.dll
+C:\Soaib\Humber\Semester 3\ASP.NET\BookStoreProject\BookStoreProject\bin\Microsoft.ApplicationInsights.dll
+C:\Soaib\Humber\Semester 3\ASP.NET\BookStoreProject\BookStoreProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Soaib\Humber\Semester 3\ASP.NET\BookStoreProject\BookStoreProject\bin\Microsoft.AI.DependencyCollector.xml
+C:\Soaib\Humber\Semester 3\ASP.NET\BookStoreProject\BookStoreProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Soaib\Humber\Semester 3\ASP.NET\BookStoreProject\BookStoreProject\bin\Microsoft.AI.Web.xml
+C:\Soaib\Humber\Semester 3\ASP.NET\BookStoreProject\BookStoreProject\bin\Microsoft.AI.WindowsServer.xml
+C:\Soaib\Humber\Semester 3\ASP.NET\BookStoreProject\BookStoreProject\bin\Microsoft.ApplicationInsights.xml
+C:\Soaib\Humber\Semester 3\ASP.NET\BookStoreProject\BookStoreProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Soaib\Humber\Semester 3\ASP.NET\BookStoreProject\BookStoreProject\obj\Debug\BookStoreProject.csproj.CoreCompileInputs.cache
+C:\Soaib\Humber\Semester 3\ASP.NET\BookStoreProject\BookStoreProject\obj\Debug\BookStoreProject.dll
+C:\Soaib\Humber\Semester 3\ASP.NET\BookStoreProject\BookStoreProject\obj\Debug\BookStoreProject.pdb
+C:\Soaib\Humber\Semester 3\ASP.NET\BookStoreProject\BookStoreProject\obj\Debug\BookStoreProject.csprojAssemblyReference.cache
+C:\Soaib\Humber\Semester 3\ASP.NET\BookStoreProject\BookStoreProject\obj\Debug\BookStoreProject.csproj.CopyComplete
