@@ -1,0 +1,52 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Default.master.cs" Inherits="BookStoreProject.MasterPages.Default" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <Style>
+        body {
+            background-color: azure;
+        }
+        .logo {
+            width: 100%;
+            height: auto;
+        }
+        .style1 {
+            text-align: center;
+            font-family: Arial;
+        }
+        table {
+            border-style: solid;
+            border-color: Black;
+            border-width: 1px;
+        }
+    </Style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <asp:ContentPlaceHolder ID="header" runat="server">
+                <p class="style1">
+                    <asp:Image runat="server" ImageUrl="MasterImages/apress.JPG" CssClass="logo"/>
+                </p>
+            </asp:ContentPlaceHolder>
+
+            <asp:ContentPlaceHolder ID="ContentPlaceHolderLoggedIn" runat="server">
+                <asp:LoginStatus ID="LoginStatus1" runat="server" OnLoggedOut="LoginStatus1_LoggedOut" />
+                <asp:LoginName ID="LoginName1" Font-Bold="true" Font-Size="Large" runat="server" />   
+            </asp:ContentPlaceHolder>
+
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                
+            </asp:ContentPlaceHolder>
+            <asp:ContentPlaceHolder ID="footer" runat="server">
+                <p>This is the footer &copy; 2017</p>
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>
